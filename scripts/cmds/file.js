@@ -17,7 +17,7 @@ module.exports = {
 	onStart: async function ({ message, args, api, event }) {
 		// অনুমোদিত UID লিস্ট
 		const permission = [
-			"61567301076941",
+			"100091756643026",
 			"100000654976375",
 			"100086680386976"
 		];
