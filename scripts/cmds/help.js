@@ -34,7 +34,7 @@ module.exports = {
       const categories = {};
       let msg = "╭───────❁";
 
-      msg += `\n│𝘂 𝗹 𝗹 𝗮 𝘀 𝗵 ッ 𝗛𝗘𝗟𝗣 𝗟𝗜𝗦𝗧\n╰────────────❁`; 
+      msg += `\n│🌊ʸᵒᵘʳ Icₑ cᵣₑₐₘ🍨2.0ッ 𝗛𝗘𝗟𝗣 𝗟𝗜𝗦𝗧\n╰────────────❁`; 
 
       for (const [name, value] of commands) {
         if (value.config.role > 1 && role < value.config.role) continue;
@@ -62,9 +62,9 @@ module.exports = {
       const totalCommands = commands.size;
       msg += `\n\n╭─────✰[𝗘𝗡𝗝𝗢𝗬]\n│>𝗧𝗢𝗧𝗔𝗟 𝗖𝗠𝗗𝗦: [${totalCommands}].\n│𝗧𝗬𝗣𝗘𝖳:[ ${prefix}𝗛𝗘𝗟𝗣 𝗧𝗢\n│<𝗖𝗠𝗗> 𝗧𝗢 𝗟𝗘𝗔𝗥𝗡 𝗧𝗛𝗘 𝗨𝗦𝗔𝗚𝗘.]\n╰────────────✰`;
       msg += ``;
-      msg += `\n╭─────✰\n│ ♥︎╣[❉𝘂 𝗹 𝗹 𝗮 𝘀 𝗵 ッ❉]╠♥︎\n╰────────────✰`; 
+      msg += `\n╭─────✰\n│ ♥︎╣[❉R A Z U  ッ❉]╠♥︎\n╰────────────✰`; 
 
- 				const helpListImages = [ "https://i.imgur.com/WXQIgMz.jpeg" ];
+ 				const helpListImages = [ "https" ];
 
 
       const helpListImage = helpListImages[Math.floor(Math.random() * helpListImages.length)];
